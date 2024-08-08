@@ -1,4 +1,8 @@
 {
     "namespace": "amycatgirl",
-    "id": "slashie"
+    "id": "slashie",
+    "dyna": {
+    	"repo": "amycatgirl/slashie",
+	"shouldRestart": true
+    }
 }
